@@ -1,4 +1,4 @@
-# CS6650 Homework 2: Android-based GNSS Measurements
+# Android-based GNSS Measurements
 
 -------------------------------------------------
 |	Author: V S S Anirudh Sharma		|
